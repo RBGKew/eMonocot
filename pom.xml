@@ -45,7 +45,7 @@
 		<spring.batch.version>2.1.8.RELEASE</spring.batch.version>
 		<spring.batch.admin.version>1.2.0.RELEASE</spring.batch.admin.version>
 		<spring.integration.version>2.2.1.RELEASE</spring.integration.version>
-		<lucene.version>4.0.0</lucene.version>
+		<lucene.version>8.2.0</lucene.version>
 		<geotools.version>2.7.0</geotools.version>
 		<aspectj.version>1.6.12</aspectj.version>
 		<slf4j.version>1.7.5</slf4j.version>
